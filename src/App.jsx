@@ -1,8 +1,8 @@
 export default function App() {
   return (
     <div style={{ padding: 40 }}>
-      <h1>✅ AI Hotel Demo</h1>
-      <p>Your app is working 🚀</p>
+      <h1>✅ IT WORKS</h1>
+      <p>You are fully deployed 🚀</p>
     </div>
   );
 }
